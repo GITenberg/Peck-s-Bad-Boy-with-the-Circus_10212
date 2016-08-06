@@ -1,0 +1,28 @@
+_repo: Peck-s-Bad-Boy-with-the-Circus_10212
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peck, George W. (George Wilbur)
+    alias: Peck, George Wilbur
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '3383'
+    url: http://www.gutenberg.org/2009/agents/3383
+    wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
+description: The Bad Boy and his Dad travel with a Circus.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- GITenberg
+title: Peck's Bad Boy with the Circus
+url: http://www.gutenberg.org/ebooks/10212
